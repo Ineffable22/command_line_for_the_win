@@ -29,4 +29,4 @@ Is a pretty cool game challenging you on Bash skills. Everything is done via the
 
 ## Final Challenge
 ### Complete all
-[Final_task.jpg](https://github.com/Ineffable22/command_line_for_the_win#:~:text=20%20hours%20ago-,Final_task.jpg,-20%20hours%20ago)
+[Final_task.jpg](https://github.com/Ineffable22/command_line_for_the_win/blob/main/Final_task.jpg)
