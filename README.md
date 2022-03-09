@@ -1,6 +1,6 @@
 <h1 align="center"> Command Line For The Win</h1>
 
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/324/06AChAO.png">
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/324/06AChAO.png" target="_blank">
 
 # CMD CHALLENGE 
 
